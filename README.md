@@ -4,7 +4,7 @@ Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Full-Stack Developer
 --------------------
 
-Passionate about innovation and technology, with a background in development and continually advancing in Full-Stack, following a career transition.
+Passionate about innovation and technology, with a background in development and continually advancing in Full-Stack.
 
 * 🧠  I'm currently learning JavaScript | TypeScript | Node | Express | NoSQL | React Redux | Engineering Software | Software Architecture | Cloud-Native Computing |
 
