@@ -7,7 +7,6 @@ Fullstack developer in training
 I'm a Full Stack Developer in training, currently studying Systems Analysis and Development.  
 Passionate about technology, problem-solving, and building modern web applications with clean and scalable code.
 
-🌍  I'm based in Campinas, Brazil  
 
 ✉️  You can contact me at [erodrigov7@gmail.com](mailto:erodrigov7@gmail.com)  
 
