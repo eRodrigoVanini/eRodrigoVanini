@@ -1,8 +1,6 @@
 Hi, I'm Rodrigo Vanini ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 =======================================================================================================================================
 
-Fullstack developer in training
--------------------------------
 
 I'm a Full Stack Developer in training, currently studying Systems Analysis and Development.  
 Passionate about technology, problem-solving, and building modern web applications with clean and scalable code.
