@@ -11,7 +11,7 @@ Passionate about technology, problem-solving, and building modern web applicatio
 
 ✉️  You can contact me at [erodrigov7@gmail.com](mailto:erodrigov7@gmail.com)  
 
-🧠  I'm currently learning JavaScript | TypeScript | Node | Express | SQL | NoSQL | React | Engineering Software  
+🧠  I'm currently learning | React | Engineering Software  
 
 👥  I'm looking to collaborate on projects as a frontend developer, designer or dev rel.    
 
