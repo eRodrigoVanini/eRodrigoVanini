@@ -1,27 +1,36 @@
-Hi, I'm Rodrigo Vanini ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-=======================================================================================================================================  
+# Hi there! I'm Rodrigo Vanini 👋
 
-  
+### 👨‍💻 Full Stack Developer Student | Ex-Architect
 
+I am a Systems Analysis and Development student passionate about solving real-world problems with technology. 
 
-I'm a Full Stack Developer in training, currently studying Systems Analysis and Development.  
-Passionate about technology, problem-solving, and building modern web applications with clean and scalable code.  
+Coming from a **5-year background in Architecture & Urbanism**, I bring a strong foundation in **project management, compliance, and structured thinking** to software development. My goal is to build scalable, user-friendly, and secure applications.
 
+Currently, I am consolidating my skills in **Full Stack Development** while expanding my knowledge in **Information Security (AppSec)** to write safer code.
 
+---
 
-✉️  You can contact me at [erodrigov7@gmail.com](mailto:erodrigov7@gmail.com)  
+### 🛠️ Tech Stack
 
-🧠  I'm currently learning | React | Engineering Software  
+**Frontend**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-👥  I'm looking to collaborate on projects as a frontend developer, designer or dev rel.    
+**Backend**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
+**Database & Tools**
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
- -------------------------------  
- 
-💻 Frontend: Nextjs, React, HTML, CSS, JavaScript
+---
 
-🌐 Backend: Node.js
+### 🧠 Currently Learning & Interests
+- **Core:** React Ecosystem & Node.js Architecture
+- **Focus:** Java & Software Architecture (MVC)
+- **Exploring:** Application Security (AppSec) & LGPD Compliance
 
-🗄️ Databases: MySQL, PostgreSQL
+---
 
-⚙️ Tools: Git, Visual Studio Code, Figma
+### 📫 Let's Connect
+- **Email:** erodrigov7@gmail.com
+- **LinkedIn:** [Rodrigo Vanini](https://www.linkedin.com/in/rodrigovanini) *(Substitua pelo seu link real)*
+
